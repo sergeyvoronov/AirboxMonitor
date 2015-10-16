@@ -7,3 +7,5 @@ c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bi
 c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\AirBoxMonitor.pdb
 c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.exe
 c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.pdb
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\System.Net.Http.dll
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\System.Net.Http.xml
