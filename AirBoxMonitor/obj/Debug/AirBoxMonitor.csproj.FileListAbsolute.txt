@@ -1,0 +1,9 @@
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\AirBoxMonitor.exe.config
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.csprojResolveAssemblyReference.cache
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.Form1.resources
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.Properties.Resources.resources
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.csproj.GenerateResource.Cache
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\AirBoxMonitor.exe
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\bin\Debug\AirBoxMonitor.pdb
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.exe
+c:\users\sv\documents\visual studio 2015\Projects\AirBoxMonitor\AirBoxMonitor\obj\Debug\AirBoxMonitor.pdb
